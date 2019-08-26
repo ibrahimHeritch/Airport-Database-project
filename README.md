@@ -1,6 +1,6 @@
 # Airport-Database-project
 
-This pdf file is the final version of a project I made for my Database course.\n
+This docx file is the final version of a project I made for our Database course.
 
 The project involved designing a relational database from scratch then implimenting the database and populating it.
 
@@ -10,3 +10,7 @@ All the SQL statements are in the pdf file.
 
 The insert statements were generated using a python script (the database script repository).
 
+To view report online:
+https://drive.google.com/file/d/1nNyKRf3oAMwlK7k8Lk3jBRE-dFzNmWeX/view?usp=sharing 
+
+This project was a group project by me, @BayanJaber(https://github.com/BayanJaber) and @AbdullahBarazi
