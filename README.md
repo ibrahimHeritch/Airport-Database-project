@@ -6,7 +6,7 @@ The project involved designing a relational database from scratch then impliment
 
 The project also includes some queries at the end.
 
-All the SQL statements are in the pdf file.
+All the SQL statements are in the report file.
 
 The insert statements were generated using a python script (the database script repository).
 
